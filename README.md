@@ -1,5 +1,5 @@
 ## NexusMesh 🏆
-Best Hardware Hack — HackKU 2026
+# Best Hardware Hack — HackKU 2026
 A distributed, AI-powered eco-physiological sensing platform that protects workers and
 communities in real time — no cloud, no delay, no privacy concerns.
 What It Does
