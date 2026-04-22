@@ -1,8 +1,8 @@
-## NexusMesh 🏆
-# Best Hardware Hack — HackKU 2026
+# NexusMesh 🏆
+## Best Hardware Hack — HackKU 2026
 A distributed, AI-powered eco-physiological sensing platform that protects workers and
 communities in real time — no cloud, no delay, no privacy concerns.
-What It Does
+## What It Does
 NexusMesh is a three-node wireless sensor network built on ESP32 microcontrollers. A central
 sender node reads body temperature, heart rate, and gas presence simultaneously, then broadcasts
 all data over ESP-NOW (Wi-Fi peer-to-peer, no router required) to two receivers:
